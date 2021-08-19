@@ -20,6 +20,7 @@
     "hardhat": "^2.6.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "file:openzeppelin/contracts@3.1.0-solc-0.8"
+    "@openzeppelin/contracts": "file:openzeppelin/contracts@3.1.0-solc-0.8",
+    "openzeppelin-solidity": "^4.3.0"
   }
 }
