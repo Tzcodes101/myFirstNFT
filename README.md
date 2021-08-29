@@ -9,7 +9,10 @@
 ![Image of NFT](assets/ArwinNFT.jpg)
 
 ## Description
-My first NFT is the first project I completed with Solidity. The NFT features my dog, Arwin
+My first NFT is the first project I completed with Solidity. The NFT features my dog, Arwin. I followed a series of tutorials to create and deploy an ERC-721 smart contract on the Ropsten test network using Metamask, Solidity, Hardhat, Pinata and Alchemy. The tutorials can be found here:
+
+https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft
+
 
 - User Story: I want to mint NFTs so that I can determine ownership of digital assets.
 
